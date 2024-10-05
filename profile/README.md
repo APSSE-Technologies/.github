@@ -1,5 +1,5 @@
 <p align="center">
-<img style="align: center" src="https://github.com/andrepozzan/apsse_technologies/assets/85946447/e319853b-d16d-4e5f-a9d0-165c40063964" width="250px">
+<img style="align: center" src="./logo.jpg" width="250px">
 </p>
 
 <h1 align="center">APSSE Technologies</h1>
@@ -36,13 +36,13 @@ It is made up of undergraduate students from the electrical engineering course
 
 ## Technical drawings
 
-<img src="./technical-drawing/img/prancha1.svg">
-<img src="./technical-drawing/img/prancha2.svg">
+<img src="./prancha1.svg">
+<img src="./prancha2.svg">
 
 ---
 
 <p align="center">
-<img width="700px" src="https://github.com/andrepozzan/apsse_technologies/assets/85946447/3bbcf1f9-9dab-4b5d-9d30-cfd3e167265f">
+<img width="700px" src="./banner1.jpeg">
 </p>
 
 ---
