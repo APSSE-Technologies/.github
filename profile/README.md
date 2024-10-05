@@ -10,11 +10,11 @@ It is made up of undergraduate students from the electrical engineering course
 
 ## Media Contacts
 
-<a href="https://www.instagram.com/apsse_technologies?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="><img width="30px" src="https://github.com/andrepozzan/apsse_technologies/assets/85946447/b3ffd34a-f2fd-44a2-935d-df8234fabf10"> APPSE Technologies Instagram </a>
+<a href="https://www.instagram.com/apsse_technologies?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="><img width="30px" src="https://github.com/andrepozzan/apsse_technologies/assets/85946447/b3ffd34a-f2fd-44a2-935d-df8234fabf10"> APSSE Technologies Instagram </a>
 
-<a href="https://www.linkedin.com/company/apsse-tecnologies-ufpr/"><img src="https://github.com/andrepozzan/apsse_technologies/assets/85946447/bdc88fdf-596d-41b6-a29a-4a8b10aa5610"> APPSE Technologies Linkedin</a>
+<a href="https://www.linkedin.com/company/apsse-tecnologies-ufpr/"><img src="https://github.com/andrepozzan/apsse_technologies/assets/85946447/bdc88fdf-596d-41b6-a29a-4a8b10aa5610"> APSSE Technologies Linkedin</a>
 
-<a href="https://www.facebook.com/profile.php?id=61566150221510"><img src="https://github.com/andrepozzan/apsse_technologies/assets/85946447/737e5603-e31f-416d-8ece-db86324e8ee2"> APPSE Technologies Facebook</a>
+<a href="https://www.facebook.com/profile.php?id=61566150221510"><img src="https://github.com/andrepozzan/apsse_technologies/assets/85946447/737e5603-e31f-416d-8ece-db86324e8ee2"> APSSE Technologies Facebook</a>
 
 ### Watch the Freecad timelapse of the project's development:
 
